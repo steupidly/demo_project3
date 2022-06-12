@@ -1,1 +1,1 @@
-# demo_project3
+# demo_project3_digitalskola
